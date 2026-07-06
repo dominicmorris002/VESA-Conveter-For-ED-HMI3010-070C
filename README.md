@@ -22,3 +22,6 @@ An STL file that converts your ED-HMI3010-070C screen to work with standard VESA
 ## Files
 
 - `VESAConverterforED_HMI3010-070C.stl` - The adapter model
+
+
+<img width="1919" height="975" alt="image" src="https://github.com/user-attachments/assets/3adb24c3-6de7-47d6-9e6b-434b748ca5ce" />
